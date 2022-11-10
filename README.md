@@ -1,1 +1,2 @@
-# RaspberryPi-HomeAssistant-temp
+# RaspberryPi Home Assistant temperature
+
