@@ -10,7 +10,6 @@
 * Parallel interface
 * KS0066U controller (COG versions use the NT603H controller)
 * -10 °C to 60 °C operating temperature range
-
-
 ## References
 * https://docs.rs-online.com/6b5d/0900766b806dda16.pdf
+* https://ie.rs-online.com/web/p/lcd-monochrome-displays/5326408
