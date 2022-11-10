@@ -11,6 +11,9 @@ Raspberry Pi Zero(released in Nov 2015, by Raspberry Pi Foundation) is a single-
 ## Header Pinout
 ![image](https://user-images.githubusercontent.com/44589560/201033305-a2e9fd92-64bc-4caa-b701-6893ce2832e2.png)
 
+# Sensor
+## Sensor pinout
+![image](https://user-images.githubusercontent.com/44589560/201046656-42ed012c-920e-4456-a1e9-be1ae356d8e7.png)
 
 # Display
 ![image](https://user-images.githubusercontent.com/44589560/201032597-428b1771-5aa2-4055-ab56-4708bc70bb10.png)
