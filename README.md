@@ -6,6 +6,8 @@
 * Displaytech 162C-BA-BC Reflective STN on Green - No Backlight
 
 # Raspberry Pi
+Raspberry Pi Zero(released in Nov 2015, by Raspberry Pi Foundation) is a single-board mini computer, mainly used to design embedded systems based IoT projects. The economical price, small-size and open-source design of this module makes it a suitable pick for applications ie. weather monitoring, motion-sensing camera, tiny power supply-sized computers and much more.
+
 ## Header Pinout
 ![image](https://user-images.githubusercontent.com/44589560/201033305-a2e9fd92-64bc-4caa-b701-6893ce2832e2.png)
 
