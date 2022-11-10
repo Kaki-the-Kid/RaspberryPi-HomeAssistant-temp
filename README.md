@@ -27,8 +27,23 @@ Ford Raspberry Pi zero er <u>meget</u> langsom med GUI og ssh remote brugte jeg 
 * KS0066U controller (COG versions use the NT603H controller)
 * -10 °C to 60 °C operating temperature range
 
-## Opsætning af display
+## Opsætning af display - 4 bit mode
 ![image](https://user-images.githubusercontent.com/44589560/201076605-e6c61200-0468-45b4-8d60-cc583db52ba1.png)
+
+### Installering af Python bibliotek RPLCD
+<code>sudo pip install RPLCD</code>
+
+Hvis man oplever problemer med at få koden til at køre, kan man installere en ældre version
+
+<code>pip install RPLCD==0.9</code>
+
+
+<code>
+from RPLCD import CharLCD
+
+lcd = CharLCD(cols=16, rows=2, pin_rs=37, pin_e=35, pins_data=[33, 31, 29, 23])
+lcd.write_string(u'Hello world!')
+</code>
 
 
 ## References
