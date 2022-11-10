@@ -1,5 +1,5 @@
 # RaspberryPi Home Assistant temperature
-[This projekt is under construction]
+[This projekt is work in progress]
 
 # Materialeliste
 * Raspberry Pi Zero v1.1
