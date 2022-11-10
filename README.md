@@ -16,8 +16,6 @@ Raspberry Pi Zero(released in Nov 2015, by Raspberry Pi Foundation) is a single-
 ![image](https://user-images.githubusercontent.com/44589560/201032597-428b1771-5aa2-4055-ab56-4708bc70bb10.png)
 ## Display pinout
 ![image](https://user-images.githubusercontent.com/44589560/201033586-71c464ba-d25c-4935-8331-9f7b48e4e9ec.png)
-
-
 ## Specs
 * 16 x 2 Character LCD Displays
 * Parallel interface
@@ -26,6 +24,7 @@ Raspberry Pi Zero(released in Nov 2015, by Raspberry Pi Foundation) is a single-
 ## References
 * https://docs.rs-online.com/6b5d/0900766b806dda16.pdf
 * https://ie.rs-online.com/web/p/lcd-monochrome-displays/5326408
+* https://www.pinteric.com/displays.html
 
 # Homeassistant
 
