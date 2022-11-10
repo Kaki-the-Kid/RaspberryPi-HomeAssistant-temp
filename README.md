@@ -5,6 +5,11 @@
 * Raspberry Pi Zero v1.1
 * Displaytech 162C-BA-BC Reflective STN on Green - No Backlight
 
+# Raspberry Pi
+## Header Pinout
+![image](https://user-images.githubusercontent.com/44589560/201033305-a2e9fd92-64bc-4caa-b701-6893ce2832e2.png)
+
+
 # Display
 ![image](https://user-images.githubusercontent.com/44589560/201032597-428b1771-5aa2-4055-ab56-4708bc70bb10.png)
 
