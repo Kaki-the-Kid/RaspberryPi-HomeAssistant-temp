@@ -18,4 +18,6 @@
 * https://ie.rs-online.com/web/p/lcd-monochrome-displays/5326408
 
 # Homeassistant
+
+## References
 https://www.home-assistant.io/
