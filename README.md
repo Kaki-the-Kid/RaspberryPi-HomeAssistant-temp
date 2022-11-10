@@ -5,6 +5,8 @@
 * Displaytech 162C-BA-BC Reflective STN on Green - No Backlight
 
 # Display
+![image](https://user-images.githubusercontent.com/44589560/201032597-428b1771-5aa2-4055-ab56-4708bc70bb10.png)
+
 ## Specs
 * 16 x 2 Character LCD Displays
 * Parallel interface
