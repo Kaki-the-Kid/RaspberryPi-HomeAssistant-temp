@@ -31,18 +31,18 @@ Ford Raspberry Pi zero er <u>meget</u> langsom med GUI og ssh remote brugte jeg 
 ![image](https://user-images.githubusercontent.com/44589560/201076605-e6c61200-0468-45b4-8d60-cc583db52ba1.png)
 
 ### Installering af Python bibliotek RPLCD
-  sudo pip install RPLCD
+``sudo pip install RPLCD``
 
 Hvis man oplever problemer med at få koden til at køre, kan man installere en ældre version
 
-  pip install RPLCD==0.9
+``pip install RPLCD==0.9``
 
 Man kan teste om display er korrekt installeret og opsat med sanity check Hello, World!
 
-  from RPLCD import CharLCD
+``from RPLCD import CharLCD
 
-  lcd = CharLCD(cols=16, rows=2, pin_rs=37, pin_e=35, pins_data=[33, 31, 29, 23])
-  lcd.write_string(u'Hello, World!')
+lcd = CharLCD(cols=16, rows=2, pin_rs=37, pin_e=35, pins_data=[33, 31, 29, 23])
+lcd.write_string(u'Hello, World!')``
 
 ## References
 * https://docs.rs-online.com/6b5d/0900766b806dda16.pdf
