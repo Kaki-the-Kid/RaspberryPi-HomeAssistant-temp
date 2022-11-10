@@ -7,6 +7,9 @@
 # Display
 ## Specs
 * 16 x 2 Character LCD Displays
+* Parallel interface
+* KS0066U controller (COG versions use the NT603H controller)
+* -10 °C to 60 °C operating temperature range
 
 
 ## References
