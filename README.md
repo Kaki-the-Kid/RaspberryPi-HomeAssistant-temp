@@ -12,6 +12,9 @@
 
 # Display
 ![image](https://user-images.githubusercontent.com/44589560/201032597-428b1771-5aa2-4055-ab56-4708bc70bb10.png)
+## Display pinout
+![image](https://user-images.githubusercontent.com/44589560/201033586-71c464ba-d25c-4935-8331-9f7b48e4e9ec.png)
+
 
 ## Specs
 * 16 x 2 Character LCD Displays
