@@ -33,3 +33,6 @@ MQTT stands for Message Queuing Telemetry Transport, a simple messaging protocol
 * Create tabs and groups to display different widgets: buttons, text, charts, and gauges;
 * Build flows with switches to control the ESP32/ESP8266 GPIOs;
 * Use charts and gauges to visualize sensor readings.
+
+# References
+* https://randomnerdtutorials.com/esp8266-and-node-red-with-mqtt/
