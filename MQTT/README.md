@@ -17,6 +17,7 @@
 * Interface with InfluxDB: send data and make queries.
 
 ## Node-RED Dashboard:
+[TODO]
 * Create tabs and groups to display different widgets: buttons, text, charts, and gauges;
 * Build flows with switches to control the ESP32/ESP8266 GPIOs;
 * Use charts and gauges to visualize sensor readings.
