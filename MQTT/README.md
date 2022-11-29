@@ -16,11 +16,11 @@
 * Schedule events and set up rules;
 * Interface with InfluxDB: send data and make queries.
 
-[] Node-RED Introduction
-[] Installing Node-RED
-[] Node-RED Overview
-[] Node-RED Dashboard
-[] Controlling an LED with Node RED
+[-] Node-RED Introduction
+[-] Installing Node-RED
+[-] Node-RED Overview
+[-] Node-RED Dashboard
+[-] Controlling an LED with Node RED
 
 ## Node-RED Dashboard:
 [TODO]
